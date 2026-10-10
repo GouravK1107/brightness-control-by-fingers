@@ -9,6 +9,10 @@ A real-time Computer Vision project that controls your system's screen brightnes
 
 ---
 
+> 🎓 **Project Type: Learning**
+>
+> This project is built for learning purposes. I created it to understand and practice new concepts, tools, and technologies. The code may not follow production-level standards, and it's a work in progress as I keep exploring and improving.
+
 ## 🚀 Features
 
 - ✋ Real-time hand tracking
